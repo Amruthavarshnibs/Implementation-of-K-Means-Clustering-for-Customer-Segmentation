@@ -8,10 +8,10 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. start the program
+2. data load set
+3. Evaluate Accuracy
+4. Print Results
 
 ## Program:
 ```
